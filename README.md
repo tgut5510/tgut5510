@@ -1,6 +1,6 @@
 # hello, world! :vulcan_salute:	
 hi everyone, i'm tomas! an aspiring software engineer studying computer science :computer:	
 
-i create projects to practice my love of programming and help the community :boom:
+i create projects to practice my love of programming :boom:
 
-please feel free to contact me about partner project/programming you would like to collaborate on together :exclamation:
+ive created and gathered some resources to help the community :exclamation:
