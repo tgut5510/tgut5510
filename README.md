@@ -3,4 +3,4 @@ hi everyone, i'm tomas! an aspiring software engineer studying computer science 
 
 i create projects to practice my love of programming :boom:
 
-ive gathered some study resources to help the community :exclamation:
+ive gathered some leaerning resources to help the community :exclamation:
