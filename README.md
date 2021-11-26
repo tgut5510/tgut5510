@@ -1,5 +1,5 @@
 # hello, world! :vulcan_salute:	
-hi everyone, i'm tomas! an aspiring software engineer studying computer science at lone star college-university park :computer:	
+hi everyone, i'm tomas! an aspiring software engineer studying computer science :computer:	
 
 i create projects to practice my love of programming and help the community :boom:
 
