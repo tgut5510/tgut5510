@@ -1,4 +1,4 @@
 # hello, world! :vulcan_salute:	
-hi everyone, i'm tomas! computer science student :computer:	
+hi everyone, i'm tomas! :computer:	
 
 ive gathered some learning resources to help the community :exclamation:
